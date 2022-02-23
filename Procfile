@@ -1,0 +1,1 @@
+web:java -jar target/demohost-1.0.jar
